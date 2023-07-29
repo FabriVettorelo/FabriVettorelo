@@ -23,7 +23,7 @@
 
 <h3 align="left">About me:</h3>
 <hr/>
-I am Fabri, Full Stack Developer, Industrial Designer and Entrepreneur. I have an advanced English level (UNC Faculty of Languages). I studied at Henry to become a Full Stack Developer, to expand my knowledge on the technological field. I graduated at Renault Technical Institute, my technical knowledge ranges from computer design to manufacturing on machine (both manual and CAD/CAM). I also graduated as Industrial Designer at FAUD UNC where technical knowledge is combined with creativity and art. 
+I am Fabri, Full Stack Developer, Industrial Designer and Entrepreneur! I also have an advanced English level 🙋‍♂️. I studied at Henry to become a Full Stack Developer. I graduated at Renault Technical Institute, my technical knowledge ranges from computer design to manufacturing on machine (both manual and CAD/CAM). I also graduated as Industrial Designer at FAUD UNC where technical knowledge is combined with creativity and art. 
 
 My name represents me a lot since it means manufacturer, and since childhood I have had my own projects, inventions, ventures and I have always been managing my own businesses, offering my own products, the most recent being Studio Omicron DI, started in 2015, where me and my team make models, prototypes, mock-ups and prop-replicas by comission. This has led me to develop an accelerated pace of group work and to carry out a wide variety of designs and works for numerous clients and companies, as well as having experience in customer service.
 
