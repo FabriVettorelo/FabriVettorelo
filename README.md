@@ -17,7 +17,7 @@
 
 <img align="left" src="https://gifdb.com/images/high/warhammer-bill-shooting-sticker-inv55bzyc047tqsz.gif" alt=""  height="155"/>
 <p align="center">
- <h3 >Connect with me: </h3> www.linkedin.com/in/fabrizio-vettorelo-0629a3263/
+ <h3 style="background-color: white;">Connect with me: </h3> www.linkedin.com/in/fabrizio-vettorelo-0629a3263/
 
 
 
