@@ -17,11 +17,11 @@
 
 <img align="left" src="https://gifdb.com/images/high/warhammer-bill-shooting-sticker-inv55bzyc047tqsz.gif" alt=""  height="155"/>
 <p align="center">
- <h3>Connect with me: </h3> www.linkedin.com/in/fabrizio-vettorelo-0629a3263/
+ <h3>...Connect with me: </h3> www.linkedin.com/in/fabrizio-vettorelo-0629a3263/
 
 
 
-<h3 align="left">About me:</h3>
+<h3 align="left">...About me:</h3>
 <hr/>
 I am Fabri, Full Stack Developer, Industrial Designer and Entrepreneur! I also have an advanced English level 🙋‍♂️. I studied at Henry to become a Full Stack Developer. I graduated at Renault Technical Institute, my technical knowledge ranges from computer design to manufacturing on machine (both manual and CAD/CAM). I also graduated as Industrial Designer at FAUD UNC where technical knowledge is combined with creativity and art. 
 
